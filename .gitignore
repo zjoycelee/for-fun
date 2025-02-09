@@ -1,0 +1,5 @@
+ignore/
+*.stlbak
+*.3dmbak
+*.3dm.rhl
+*.3dm_tmp
